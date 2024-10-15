@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="Q_-zvlIGnUjRojdXjm6B">
-    <mxGraphModel dx="3652" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2952" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -603,6 +603,18 @@
           <mxGeometry y="60" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-mziDGMkS7ORlLCOw0qk-217" value="W2053187_Location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-mziDGMkS7ORlLCOw0qk-214">
+          <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-mziDGMkS7ORlLCOw0qk-219" value="W2053187_Caretaker" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="280" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-mziDGMkS7ORlLCOw0qk-220" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;W2053187_Caretaker&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;_ID (PK)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-mziDGMkS7ORlLCOw0qk-219">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-mziDGMkS7ORlLCOw0qk-221" value="W2053187_Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-mziDGMkS7ORlLCOw0qk-219">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-mziDGMkS7ORlLCOw0qk-222" value="W2053187_Assigned_Area (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-mziDGMkS7ORlLCOw0qk-219">
           <mxGeometry y="90" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
