@@ -836,6 +836,12 @@
         <mxCell id="pRT6icKi6RY1rDs_TngT-295" value="Follows" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4070" y="1520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pRT6icKi6RY1rDs_TngT-297" value="Participation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3890" y="1670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pRT6icKi6RY1rDs_TngT-298" value="Mani" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3450" y="1490" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
