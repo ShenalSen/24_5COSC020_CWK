@@ -650,7 +650,7 @@
             <mxPoint x="4600" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRT6icKi6RY1rDs_TngT-238" value="(Mandatory , OR)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="pRT6icKi6RY1rDs_TngT-238" value="{Mandatory , OR}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4560" y="2030" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pRT6icKi6RY1rDs_TngT-239" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -658,9 +658,6 @@
             <mxPoint x="4520" y="2070" as="sourcePoint" />
             <mxPoint x="4830" y="2070" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="pRT6icKi6RY1rDs_TngT-240" value="(Mandatory , OR)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4350" y="1810" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pRT6icKi6RY1rDs_TngT-241" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -794,9 +791,6 @@
         <mxCell id="o2U4oGUCKsUM8HA0_jZf-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3680" y="1350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o2U4oGUCKsUM8HA0_jZf-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="4130" y="2040" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="o2U4oGUCKsUM8HA0_jZf-5" value="Guid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4860" y="2300" width="60" height="30" as="geometry" />
         </mxCell>
@@ -881,11 +875,8 @@
         <mxCell id="bivr8rdviodgca7a58gR-18" value="4..4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3970" y="2540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bivr8rdviodgca7a58gR-20" value="Follow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="2340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="bivr8rdviodgca7a58gR-21" value="Follow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4270" y="2280" width="60" height="30" as="geometry" />
+        <mxCell id="bivr8rdviodgca7a58gR-20" value="Blockbooks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="2340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bivr8rdviodgca7a58gR-23" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4910" y="2230" width="60" height="30" as="geometry" />
@@ -910,6 +901,15 @@
         </mxCell>
         <mxCell id="bivr8rdviodgca7a58gR-36" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-88;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="4880" y="2280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bivr8rdviodgca7a58gR-38" value="Blockbooks" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4290" y="2280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bivr8rdviodgca7a58gR-39" value="{Mandatory , OR}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4080" y="2040" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bivr8rdviodgca7a58gR-40" value="{Mandatory , OR}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="1780" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
