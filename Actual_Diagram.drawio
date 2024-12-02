@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="_AqIk849A-7JuCAGYJIs">
-    <mxGraphModel dx="650" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4400" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,13 +531,13 @@
           <mxGeometry x="1240" y="460" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8P291sAO1VQeETlHJY7K-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Assumptions&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Each park and court in the Racketminster scheme has special caretakers responsible for maintenance tasks.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Caretakers are responsible for accurately maintaining logs related to maintenance tasks conducted in both parks and courts.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Each court has assigned equipment (e.g., nets, rackets, balls), which is specific to each court to make sure quality and availability.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Racketminster offers two booking options: Block Booking and&amp;nbsp; Booking (Supervised) . Players are not required to choose both and can select the booking type that best matches their needs.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Unsupervised sessions are mainly designed for singles or doubles games, allowing players to play without direct supervision or instruction.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Supervised group sessions are categorised into three types like fitness play, group coaching, and social fun, to cater to changing player needs and objectives.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Supervised group sessions may include up to two instructors tocoach multiple players more effectively.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Courts can be used for different racket sports (like tennis or pickleball) or only one type, depending on how each park is set up.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;- Courts have detailed maintenance records to keep things clear, while parks are regularly maintained without needing separate records.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1394" y="1270" width="1280" height="690" as="geometry" />
+          <mxGeometry x="1394" y="1270" width="1280" height="540" as="geometry" />
         </mxCell>
         <mxCell id="FXMqaDl6zVYJmUiDCpna-123" value="{Mandatory , OR}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2768" y="951" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-TgTT-V-02__XtDvlx8i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1930" width="2240" height="1760" as="geometry" />
+          <mxGeometry x="1005" y="76" width="2240" height="1760" as="geometry" />
         </mxCell>
         <mxCell id="-TgTT-V-02__XtDvlx8i-2" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.013;exitY=-0.017;exitDx=0;exitDy=0;entryX=0.063;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="FXMqaDl6zVYJmUiDCpna-94" target="FXMqaDl6zVYJmUiDCpna-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
