@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WnzcTKeTLSFGXzn25nNF-2" value="Ticket" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="140" height="180" as="geometry" />
+          <mxGeometry x="60" y="60" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-3" value="Ticket_id {PK}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WnzcTKeTLSFGXzn25nNF-2">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-6" value="Vendor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="60" width="140" height="120" as="geometry" />
+          <mxGeometry x="480" y="60" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-7" value="&lt;span style=&quot;text-align: center;&quot;&gt;Vendor&lt;/span&gt;_username&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WnzcTKeTLSFGXzn25nNF-6">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-10" value="Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="60" width="195" height="180" as="geometry" />
+          <mxGeometry x="240" y="60" width="195" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-11" value="Cutomer_username&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WnzcTKeTLSFGXzn25nNF-10">
           <mxGeometry y="30" width="195" height="30" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry y="150" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-14" value="Event" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="140" height="180" as="geometry" />
+          <mxGeometry x="660" y="60" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="WnzcTKeTLSFGXzn25nNF-15" value="Event_id {PK}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WnzcTKeTLSFGXzn25nNF-14">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
